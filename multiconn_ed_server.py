@@ -1,5 +1,8 @@
 """
 Multi-connection Server (Event Driven-like Server)
+
+Template provided by: Harikrishna Kuttivelil
+(UC Santa Cruz, Internetworking Research Group)
 """
 
 """
